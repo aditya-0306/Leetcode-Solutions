@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1920-build-array-from-permutation](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
 |  |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Prefix Sum
 |  |
 | ------- |
