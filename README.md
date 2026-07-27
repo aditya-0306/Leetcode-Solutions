@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [1389-create-target-array-in-the-given-order](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
