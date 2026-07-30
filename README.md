@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
