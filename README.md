@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
