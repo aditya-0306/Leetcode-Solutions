@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0516-longest-palindromic-subsequence](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
