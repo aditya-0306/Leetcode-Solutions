@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -535,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
