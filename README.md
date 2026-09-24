@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
