@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0827-making-a-large-island](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0827-making-a-large-island](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Greedy
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0827-making-a-large-island](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0827-making-a-large-island](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -619,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0827-making-a-large-island](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 ## Graph Theory
 |  |
 | ------- |
