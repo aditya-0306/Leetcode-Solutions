@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0326-power-of-three) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -763,4 +766,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
