@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0818-race-car](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0818-race-car) |
 | [1137-n-th-tribonacci-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Recursion
@@ -783,4 +784,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+## Heuristic Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0818-race-car) |
+## A* Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0818-race-car) |
 <!---LeetCode Topics End-->
