@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0818-race-car](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0818-race-car) |
+| [0834-sum-of-distances-in-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [1137-n-th-tribonacci-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Recursion
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0834-sum-of-distances-in-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0834-sum-of-distances-in-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
+| [0834-sum-of-distances-in-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0834-sum-of-distances-in-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0834-sum-of-distances-in-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0834-sum-of-distances-in-tree) |
 ## Shortest Path
 |  |
 | ------- |
@@ -725,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0834-sum-of-distances-in-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0834-sum-of-distances-in-tree) |
 ## Brute-Force Search
 |  |
 | ------- |
