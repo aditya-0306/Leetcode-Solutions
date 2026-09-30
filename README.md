@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0224-basic-calculator](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0326-power-of-three) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0326-power-of-three) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0394-decode-string) |
