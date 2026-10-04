@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0212-word-search-ii) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0224-basic-calculator) |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
