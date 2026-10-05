@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1632-rank-transform-of-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1632-rank-transform-of-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0827-making-a-large-island](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1632-rank-transform-of-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0827-making-a-large-island](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
+| [1632-rank-transform-of-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -694,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0834-sum-of-distances-in-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0834-sum-of-distances-in-tree) |
+| [1632-rank-transform-of-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 ## Shortest Path
 |  |
 | ------- |
@@ -708,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1632-rank-transform-of-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
