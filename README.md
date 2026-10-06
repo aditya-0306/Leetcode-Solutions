@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0126-word-ladder-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -857,4 +860,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
