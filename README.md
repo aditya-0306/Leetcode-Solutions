@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1383-maximum-performance-of-a-team](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1632-rank-transform-of-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -448,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Queue
 |  |
@@ -851,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Geometry
 |  |
 | ------- |
@@ -876,4 +883,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0127-word-ladder) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
