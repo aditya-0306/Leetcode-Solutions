@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0771-jewels-and-stones](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0815-bus-routes](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0815-bus-routes) |
+| [0895-maximum-frequency-stack](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1436-destination-city) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0895-maximum-frequency-stack](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0895-maximum-frequency-stack](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
 ## Data Stream
@@ -875,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+| [0895-maximum-frequency-stack](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Geometry
 |  |
