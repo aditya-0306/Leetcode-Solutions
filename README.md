@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1499-max-value-of-equation](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1499-max-value-of-equation) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1632-rank-transform-of-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0827-making-a-large-island](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1632-rank-transform-of-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Greedy
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1383-maximum-performance-of-a-team](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1499-max-value-of-equation](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1499-max-value-of-equation) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -669,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0815-bus-routes](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -723,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [0834-sum-of-distances-in-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0834-sum-of-distances-in-tree) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -746,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0685-redundant-connection-ii) |
 | [0827-making-a-large-island](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1632-rank-transform-of-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 ## Graph Theory
 |  |
@@ -769,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
