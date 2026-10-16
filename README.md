@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0818-race-car](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0818-race-car) |
 | [0834-sum-of-distances-in-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0685-redundant-connection-ii) |
