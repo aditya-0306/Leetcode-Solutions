@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [0986-interval-list-intersections](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0986-interval-list-intersections](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0986-interval-list-intersections) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+| [0986-interval-list-intersections](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0986-interval-list-intersections) |
 ## Ordered Set
 |  |
 | ------- |
