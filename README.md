@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0224-basic-calculator) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -721,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0133-clone-graph) |
