@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0818-race-car](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0818-race-car) |
 | [0834-sum-of-distances-in-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0815-bus-routes](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [0834-sum-of-distances-in-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [1020-number-of-enclaves](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -819,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0834-sum-of-distances-in-tree) |
 | [1632-rank-transform-of-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 ## Shortest Path
@@ -826,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
