@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0685-redundant-connection-ii) |
 | [0785-is-graph-bipartite](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
