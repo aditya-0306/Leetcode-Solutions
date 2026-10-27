@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Simulation
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
