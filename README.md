@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2353-design-a-food-rating-system](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2353-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2353-design-a-food-rating-system](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2353-design-a-food-rating-system) |
 | [2542-maximum-subsequence-score](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2353-design-a-food-rating-system](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2353-design-a-food-rating-system) |
 ## Sorting
 |  |
 | ------- |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1499-max-value-of-equation](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1499-max-value-of-equation) |
 | [1631-path-with-minimum-effort](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [2353-design-a-food-rating-system](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2353-design-a-food-rating-system) |
 | [2542-maximum-subsequence-score](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 ## Merge Sort
 |  |
@@ -650,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
+| [2353-design-a-food-rating-system](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2353-design-a-food-rating-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -979,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0895-maximum-frequency-stack](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2353-design-a-food-rating-system](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2353-design-a-food-rating-system) |
 ## Geometry
 |  |
 | ------- |
