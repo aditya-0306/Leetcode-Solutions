@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
+| [1834-single-threaded-cpu](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1920-build-array-from-permutation](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1383-maximum-performance-of-a-team](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1632-rank-transform-of-a-matrix](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
+| [1834-single-threaded-cpu](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2542-maximum-subsequence-score](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1499-max-value-of-equation](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1499-max-value-of-equation) |
 | [1631-path-with-minimum-effort](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1834-single-threaded-cpu](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2353-design-a-food-rating-system](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2353-design-a-food-rating-system) |
 | [2542-maximum-subsequence-score](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 ## Merge Sort
