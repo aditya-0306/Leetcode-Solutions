@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2187-minimum-time-to-complete-trips](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2353-design-a-food-rating-system](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2353-design-a-food-rating-system) |
 | [2381-shifting-letters-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2381-shifting-letters-ii) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2187-minimum-time-to-complete-trips](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Queue
 |  |
