@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2353-design-a-food-rating-system) |
 | [2381-shifting-letters-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Simulation
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0986-interval-list-intersections) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1383-maximum-performance-of-a-team](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2542-maximum-subsequence-score](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 ## Binary Search
 |  |
