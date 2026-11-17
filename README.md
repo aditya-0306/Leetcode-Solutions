@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2235-add-two-integers) |
+| [2364-count-number-of-bad-pairs](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2469-convert-the-temperature](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2652-sum-multiples) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2353-design-a-food-rating-system](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2353-design-a-food-rating-system) |
+| [2364-count-number-of-bad-pairs](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2381-shifting-letters-ii](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2381-shifting-letters-ii) |
 | [2542-maximum-subsequence-score](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2336-smallest-number-in-infinite-set](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2353-design-a-food-rating-system](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2353-design-a-food-rating-system) |
+| [2364-count-number-of-bad-pairs](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2364-count-number-of-bad-pairs](https://github.com/aditya-0306/Leetcode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
